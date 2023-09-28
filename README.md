@@ -8,6 +8,7 @@ To use this script you need Python install on your device and vJoy.
 
 The official vJoy driver installer don't work for me to I am using this one:  
 - https://softradar.com/vjoy/download/de/
+  - [Archive here](https://github.com/EloiStree/2023_09_28_PythonUdp2vJoy/blob/main/vJoyExeArchived/SoftRadarVersion/vjoy_softradar.rar)
 
 ```
 Default port: 2520
