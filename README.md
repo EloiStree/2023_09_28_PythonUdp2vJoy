@@ -10,6 +10,12 @@ The official vJoy driver installer don't work for me to I am using this one:
 - https://softradar.com/vjoy/download/de/
   - [Archive here](https://github.com/EloiStree/2023_09_28_PythonUdp2vJoy/blob/main/vJoyExeArchived/SoftRadarVersion/vjoy_softradar.rar)
 
+
+
+Install python lib:  
+`pip install pyvjoy`  
+
+
 ```
 Default port: 2520
 1|B|1        # Set joystick 1 button 1 to true
